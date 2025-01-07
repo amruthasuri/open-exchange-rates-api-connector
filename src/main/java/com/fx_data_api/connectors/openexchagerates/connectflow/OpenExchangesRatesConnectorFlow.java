@@ -1,4 +1,4 @@
-package com.fx_data_api.connectors.openexchagerates.connectflow;
+package com.fx_data_api.connectors.openexchangerates.connectflow;
 
 import java.io.File;
 import java.time.Duration;

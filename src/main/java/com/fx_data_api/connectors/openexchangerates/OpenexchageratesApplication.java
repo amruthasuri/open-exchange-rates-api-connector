@@ -1,4 +1,4 @@
-package com.fx_data_api.connectors.openexchagerates;
+package com.fx_data_api.connectors.openexchangerates;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
